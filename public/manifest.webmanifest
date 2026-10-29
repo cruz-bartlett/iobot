@@ -1,0 +1,16 @@
+{
+  "name": "IoBot \u00b7 Your day at \u02bbIolani",
+  "short_name": "IoBot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#d5333d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
